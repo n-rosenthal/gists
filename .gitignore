@@ -1,0 +1,7 @@
+/.pytest_cache
+/.venv
+/.vscode
+/astro_utils_tests.py
+/src
+/tests
+/__pycache__
